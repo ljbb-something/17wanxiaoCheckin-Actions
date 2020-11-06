@@ -5,7 +5,7 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-  schedul:
+  schedule:
     - cron: 0 22 * * *
 
 jobs:
